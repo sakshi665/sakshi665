@@ -27,11 +27,6 @@ I'm a dedicated programmer skilled in a variety of languages and frameworks. I l
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ### 🏆 Competitive Programming
 - **LeetCode Profile**: [Check Out My Progress!](https://leetcode.com/u/sakshigaye121/)  
   ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange)
