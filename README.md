@@ -28,8 +28,7 @@ I'm a dedicated programmer skilled in a variety of languages and frameworks. I l
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi-gaye&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-gaye&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
