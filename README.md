@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**sakshi665/sakshi665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sakshi Gaye! 👋
+🚀 Full-Stack Developer | 🌱 Learning [Java,C,Cpp,ReactJS,Javascript,HTML,CSS] | 💻 Open Source Enthusiast
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages**: Java, Python, JavaScript
+- **Frameworks**: React, Spring Boot
+- **Tools**: Docker, Kubernetes, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let's Connect!
+![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakshi-gaye200131%2F.
+![Github](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fsakshi665)
+
